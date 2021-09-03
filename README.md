@@ -3,9 +3,9 @@
 
 ### About me :speech_balloon:
 
-👨‍💻I'm an Open Source enthusiast, I'm Pursuing Bachelors in Computer Science and Engineering.
-👨‍💻 I program in Java and Python.
-👨‍💻 I'm learning Cloud Computing and Machine Learning.
+ 💻  I'm an Open Source enthusiast, I'm Pursuing Bachelors in Computer Science and Engineering.<br />
+:zap: I program in Java and Python.<br />
+:zap:I'm learning Cloud Computing and Machine Learning.<br />
  
 <!--
 **itsPriyanshuRaj/itsPriyanshuRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
