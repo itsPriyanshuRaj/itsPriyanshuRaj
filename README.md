@@ -3,8 +3,9 @@
 
 ### About me :speech_balloon:
 
- 💻  I'm an Open Source enthusiast, I'm Pursuing Bachelors in Computer Science and Engineering.<br />
-:zap: I program in Java and Python.<br />
+ 
+:zap: I code in Java and Python.<br />
+💻 I'm Pursuing Bachelors in Computer Science and Engineering.<br />
 :zap:I'm learning Cloud Computing and Machine Learning.<br />
  
 <!--
