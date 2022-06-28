@@ -1,12 +1,11 @@
 ### Hey 👋, I'm Priyanshu Raj 
 
 
-### About me :speech_balloon:
+### About me :I'm a CS undergrad and a developer.
 
  
-:zap: I code in Java and Python.<br />
-💻 I'm Pursuing Bachelors in Computer Science and Engineering.<br />
-:zap:I'm learning Cloud Computing and Machine Learning.<br />
+:zap: I code in Java.<br />
+🌱 I’m currently learning Web development and Cloud Computing.<br /> 
  
 <!--
 **itsPriyanshuRaj/itsPriyanshuRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
