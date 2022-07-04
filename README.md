@@ -5,7 +5,7 @@
 
  
 :zap: I code in Java.<br />
-🌱 I’m currently learning Web development and Cloud Computing.<br /> 
+🌱 I’m currently learning a lot of things<br /> 
  
 <!--
 **itsPriyanshuRaj/itsPriyanshuRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
