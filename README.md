@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Priyanshu Raj 
 
 
-### About me : I'm a CS undergrad 
+### About me : I'm a CS Grad 
 
  
 :zap: I code in Java.<br />
