@@ -4,7 +4,7 @@
 ### About me : I'm a CS Grad 
 
  
-:zap: I code in Java.<br />
+:zap: I code in Java and Python<br />
 🌱 I’m currently learning a lot of things<br /> 
  
 <!--
