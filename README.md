@@ -4,8 +4,7 @@
 ### About me : I'm a CS Grad 
 
  
-:zap: I code in Java and Python<br />
-🌱 I’m currently learning a lot of things<br /> 
+:zap: I build. I break. I learn<br />
  
 <!--
 **itsPriyanshuRaj/itsPriyanshuRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
